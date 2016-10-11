@@ -1,2 +1,2 @@
-# Gravity-
+# Gravity
 Simple game using javascript
